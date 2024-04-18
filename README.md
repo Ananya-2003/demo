@@ -1,6 +1,4 @@
-# delta-demo
-This is a demo for Git &amp; Github class. 
-# teacher
-Shradha Khapra
+# demo
+This is a demo for Git &amp; Github . 
 # student
 Ananya Dubey
